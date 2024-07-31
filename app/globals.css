@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.side{
+    width:25%;
+    height:100%;
+    background-color:#fff;
+    padding:10px;
+    
+    
+}
+.main{
+    width:75%;
+    height:100%;
+    background-color:#f2f6ff; 
+    margin-left: 365px;
+   margin-top:-700px;  
+    overflow:auto;
+}
+.main::-webkit-scrollbar{
+    display:flex;
+}
+svg:nth-child(1){
+    margin-top: 100px;;
+}
+svg:nth-child(2){
+    margin-top:100px;
+    
+}
+h1{
+    
+    margin-top:-28px;
+    margin-left:40px;
+    font-size:20px;
+}
+h2{
+    margin-top:-25px; 
+    margin-left:40px;
+    font-size:20px;
+}
+h4{
+    margin-top:-28px; 
+    margin-left:40px;
+    font-size:20px;
+}
+h5{
+    margin-top:-28px; 
+    margin-left:40px;
+    font-size:20px;
+}
+svg{
+    margin-top:50px;
+}
+h6{
+margin-top:290px;
+}
+.main img{
+    margin-top:300px;
+    margin-left:500px;
+}
+.main h1{
+    font-weight: 600;
+    margin-top:50px;
+}
+.main h2{
+    margin-top:20px;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+.side h1:hover{
+   width:100%;
+   height: 100%;
+   background-color:rgb(244, 238, 238);
+}
+.side h2:hover{
+    width:100%;
+    height: 100%;
+    background-color:rgb(244, 238, 238);
+ }
+ .side h3:hover{
+    width:100%;
+    height: 100%;
+    background-color:rgb(244, 238, 238);
+ }
+ .side h4:hover{
+    width:100%;
+    height: 100%;
+    background-color:rgb(244, 238, 238);
+ }
+ .side h5:hover{
+    width:100%;
+    height: 100%;
+    background-color:rgb(244, 238, 238);
+ }
+
+.side h6{
+    margin-top:-28px;
+    margin-left:40px;
+    font-size:20px;
+    width:100%;
+    height: 100%;
+    background-color:rgb(244, 238, 238);
+
+}
+.side .hlo{
+    margin-top:150px;
+}
+.main .b{
+    width:900px;
+    height:280px;
+    background-color: #fff;
+    margin-left:20px;
+}
+.main .b h1{
+    margin-left:18px;
+}
+.main .b h2 .sub{
+    color:black;
+}
+.main .b h2{
+   font-weight:500;
+   font-size:17px;
+   margin-top:20px;
+   color:#777272;
+}
+.main .b h3 .sub{
+    color:black;
+}
+.main .b h3{
+    font-weight:500;
+   font-size:17px;
+    margin-left:200px;
+    margin-top:-50px;
+    color:#777272;
+}
+.main .b h4{
+    font-weight:500;
+   font-size:17px;
+    margin-left:500px;
+    margin-top:-50px;
+    color:#777272;
+}
+.main .b h5{
+    font-weight:500;
+   font-size:17px;
+    color:#777272;
+    margin-top:10px;
+}
+.main .b h6{
+    font-weight:500;
+   font-size:17px;
+    margin-left:200px;
+    margin-top:-40px;
+    color:#777272;
+}
+.main .b h4 .sub{
+    color:black;
+}
+.main .b h5 .sub{
+    color:black;
+}
+.main .b h6 .sub{
+    color:black;
+}
+.main .b .box{
+    width:100px;
+    height:30px;
+    background-color:#4176de;
+    margin-left:40px;
+    margin-top:30px;
+}
+.main .b .box h1{
+    font-weight:400;
+    font-size: medium;
+    margin-left:10px;
+    color:#fff;
+}
+.main .name{
+    color:#4176de;
+    margin-left:400px;
+}
+.main .name .sub{
+    color:#000;
+    font-weight:400;
+    font-size:medium;
+    margin-left:-15px;
+}
+.main .s{
+    width:1100px;
+    height:40px;
+    background-color: #fff;
+    margin-top:-10px;
+}
+.main .p{
+    width:1100px;
+    height:40px;
+    background-color: #fff;
+}
+.main .r{
+    width:1100px;
+    height:40px;
+    background-color: #fff;
+}
+.main svg{
+    margin-left:1040px;
+    margin-top:-30px;
+}
+
+
